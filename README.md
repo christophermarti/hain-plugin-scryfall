@@ -6,10 +6,10 @@ A simple [Hain](https://github.com/appetizermonster/hain) plugin for searching o
 Open Hain and type
 
 ```
-/hpm install hain-plugin-google
+/hpm install hain-plugin-scryfall
 ```
 
 # Usage
 ```
-/g something
+/scry something
 ```

@@ -1,21 +1,21 @@
 {
-  "name": "hain-plugin-google",
+  "name": "hain-plugin-scryfall",
   "version": "1.0.3",
-  "description": "A simple google search plugin for Hain",
+  "description": "A simple scryfall search plugin for Hain",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardosnt/hain-plugin-google.git"
+    "url": "git+https://github.com/christophermarti/hain-plugin-scryfall.git"
   },
   "keywords": [
     "hain0"
   ],
-  "author": "Leonardosnt",
+  "author": "Christopher Marti",
   "license": "MIT",
   "hain": {
     "prefix": "/g ",
     "usage": "/g something",
-    "icon": "#fa fa-google",
-    "redirect": "/g "
+    "icon": "#fa fa-file-image-o",
+    "redirect": "/scry "
   }
 }
