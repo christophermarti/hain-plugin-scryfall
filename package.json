@@ -13,8 +13,8 @@
   "author": "Christopher Marti",
   "license": "MIT",
   "hain": {
-    "prefix": "/g ",
-    "usage": "/g something",
+    "prefix": "/scry ",
+    "usage": "/scry something",
     "icon": "#fa fa-file-image-o",
     "redirect": "/scry "
   }
